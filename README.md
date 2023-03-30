@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Suryam Suryadevara  <br/> </h2> 
 
-<p align="center"><img width=100% src="IMG_2130 (1).jpg"></p>
+<p align="center"><img width=69% src="IMG_2130 (1).jpg"></p>
 
 
 <p align="center"> <samp>Hi, My name is Suryam Suryadevara. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
@@ -48,10 +48,14 @@
 </tbody>
 </table>
 
-____
+![Suryam's github stats](https://github-readme-stats.vercel.app/api?username=RoroNovaZoro&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoroNovaZoro&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
-
+<br>
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
@@ -61,10 +65,3 @@ ____
 </p>
 
 ____
-
-
-<p align="center">
-
-⭐️ [Suryam Suryadevara](https://github.com/RoroNovaZoro)
-
-</p>
